@@ -4,8 +4,6 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>For You ❤️</title>
-
-```html
 <style>
 body {
     margin: 0;
@@ -143,7 +141,6 @@ button:hover {
     text-shadow: 0 0 10px #ff4d6d;
 }
 </style>
-```
 
 </head>
 
