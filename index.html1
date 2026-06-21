@@ -18,6 +18,14 @@ body {
     animation: romanticBg 12s ease infinite;
     overflow-x: hidden;
 }
+<h1>Sorry Sonali ❤️</h1>
+
+<img src="ChatGPT Image Jun 21, 2026, 06_42_14 PM" 
+     alt="Us together" 
+     width="300"
+     style="border-radius:20px; box-shadow:0 0 20px pink; margin:20px;">
+
+<p>I am really sorry... please forgive me ❤️</p>
 
 /* Animated background movement */
 @keyframes romanticBg {
